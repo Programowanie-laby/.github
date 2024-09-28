@@ -1,6 +1,6 @@
 ## Programowanie laby
 
-Organization with Github Classroom used for conducting computer labs on Pwr.
+Organization with Github Classroom used for conducting computer labs at Pwr.
 
 <!--
 
